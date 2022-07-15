@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The MATLAB codes are modification from Marco Túlio Quintino's unitary_inverse
+The MATLAB codes are modified from Marco Túlio Quintino's unitary_inverse
 (https://github.com/mtcq/unitary_inverse), which is subject to the same license.
 Here is the original copyright notice for unitary_inverse:
 
