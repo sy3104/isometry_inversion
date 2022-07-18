@@ -2,11 +2,11 @@
 
 This repository contains companion code for the following paper:
 
-Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal construction of decoders from encoding black boxes, [arXiv:2110.00258][1].
+- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal construction of decoders from encoding black boxes, [arXiv:2110.00258][1].
 
 The MATLAB codes are modified from Marco Túlio Quintino's [unitary_inverse][2], accompanied the following paper:
 
-Marco Túlio Quintino, Qingxiuxiong Dong, Atsushi Shimbo, Akihito Soeda, and Mio Murao, Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations, [Phys. Rev. Lett. 123, 210502 (2019)][3], [arXiv:1810.06944][4].
+- Marco Túlio Quintino, Qingxiuxiong Dong, Atsushi Shimbo, Akihito Soeda, and Mio Murao, Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations, [Phys. Rev. Lett. 123, 210502 (2019)][3], [arXiv:1810.06944][4].
 
 
 [1]:https://arxiv.org/abs/2110.00258
