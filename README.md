@@ -10,7 +10,7 @@ The MATLAB codes are modified from Marco Túlio Quintino's [unitary_inverse][2],
 
 ## Requirement
 
-These codes are written in MATLAB and require one of the following SDP interpreters:
+These codes are written in MATLAB and require one of the following interpreters to conduct SDP:
 
 - [CVX][5]: a Matlab-based convex modeling framework
 - [YALMIP][6]: A Toolbox for Modeling and Optimization in MATLAB
