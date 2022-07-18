@@ -43,7 +43,7 @@ These scripts make use of the following subfunctions:
 
 ## License
 
-This code is distributed under the [MIT license](https://opensource.org/licenses/MIT).
+This code is under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 [1]:https://arxiv.org/abs/2110.00258
