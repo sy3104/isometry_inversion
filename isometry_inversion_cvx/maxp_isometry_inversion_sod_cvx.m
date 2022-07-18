@@ -1,6 +1,7 @@
 function [maxp S F]=maxp_isometry_inversion_sod_cvx(d, D, Jin,k,choose_protocol,isComplex)
 % Code that evaluates the maximal probability of transforming the set of
-% k isometries encoded in Choi operators Jin and obtain the inverse maps.
+% k isometries encoded in Choi operators Jin and obtain the inverse maps
+% in "success-or-draw" manner.
 % Jin is a tensor with 'n' Choi operators that should be written as
 % Jin(:,:,i), where the variable 'i' ranges from 1 to 'n'
 % 'k' corresponds to the number of uses of the input-operation
