@@ -1,6 +1,6 @@
 function new_Constraints = is_parallel_protocol_yalmip(C,din,dout,d,D,k,Constraints)
 % Code that imposes SDP constrains on a variable C to enforce that C is a valid
-% sequential superchannel
+% parallel superchannel
 % 'din' corresponds to the dimension of the input space of the output operation
 % 'dout' corresponds to the dimension of the output space of the output operation
 % 'd' corresponds to the dimension of the input space of the input operation
