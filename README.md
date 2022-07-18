@@ -1,7 +1,5 @@
 # isometry_inversion
 
-## Overview
-
 This repository contains companion code for the following paper:
 
 - Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal construction of decoders from encoding black boxes, [arXiv:2110.00258][1].
