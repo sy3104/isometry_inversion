@@ -2,7 +2,7 @@
 
 This repository contains companion code for the following paper:
 
-- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal construction of decoders from encoding black boxes, [arXiv:2110.00258][1].
+- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal construction of decoders from encoding black boxes, [Quantum 7, 957 (2023)][https://doi.org/10.22331/q-2023-03-20-957], [arXiv:2110.00258][1].
 
 The MATLAB codes are modified from Marco Túlio Quintino's [unitary_inverse][2], accompanied the following paper:
 
